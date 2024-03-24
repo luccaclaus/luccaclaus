@@ -1,4 +1,4 @@
-## Hi there! I'm Lucca Claus
+## Hi there! I'm Lucca Claus ✌️
 
  <div>
   <a href="https://github.com/luccaclaus">
