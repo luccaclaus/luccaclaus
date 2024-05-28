@@ -11,6 +11,7 @@
 - Doing a bachelor's in Computer Science at UFRGS 📚
 - 21 years old ✨
 - iOS developer 👨🏼‍💻
+- Music enthusiast 🎵
   
 ---
 ### Languages and Technologies:
