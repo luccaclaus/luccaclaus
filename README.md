@@ -5,8 +5,16 @@
   <img height="180em" src="https://github-readme-stats-six-navy-80.vercel.app/api?username=luccaclaus&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-six-navy-80.vercel.app/api/top-langs/?username=luccaclaus&layout=compact&langs_count=10&theme=cobalt&count_private=true"/>
 </div>
-
-<div style="display: inline_block"><br>
+   
+---
+### About me:
+- Doing a bachelor's in Computer Science at UFRGS 📚
+- 21 years old ✨
+- iOS developer 👨🏼‍💻
+  
+---
+### Languages and Technologies:
+<div style="display: inline_block">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
