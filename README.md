@@ -8,6 +8,9 @@
    
 ---
 ### About me:
+
+Profoundly curious about tech and programming. Focused on delivering effective and quality solutions through coding. 
+
 - Doing a bachelor's in Computer Science at UFRGS 📚
 - 21 years old ✨
 - iOS developer 👨🏼‍💻
