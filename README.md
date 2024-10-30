@@ -9,7 +9,7 @@
 ---
 ### About me:
 - Doing a bachelor's in Computer Science at UFRGS 📚
-- 21 years old ✨
+- 22 years old ✨
 - iOS developer 👨🏼‍💻
 - Music enthusiast 🎵
   
