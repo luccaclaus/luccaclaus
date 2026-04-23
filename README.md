@@ -9,7 +9,7 @@
 ---
 ### About me:
 - Doing a bachelor's in Computer Science at UFRGS 📚
-- 22 years old ✨
+- 23 years old ✨
 - Fullstack developer 👨🏼‍💻
 - Music enthusiast 🎵
   
